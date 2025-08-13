@@ -6,20 +6,23 @@
 
 ---
 
-## 🏆 Profile Highlights
-![Profile Views](https://komarev.com/ghpvc/?username=AdnankDev&color=blue)  
-[![GitHub followers](https://img.shields.io/github/followers/AdnankDev?label=Follow&style=social)](https://github.com/AdnankDev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
-
----
-
 ## 🚀 About Me
-I am passionate about technology, problem-solving, and continuous learning.  
-Currently focused on **Cybersecurity** and **Full Stack Web Development**, I enjoy building secure, efficient, and creative solutions.  
+I am Adnan Khan, a highly motivated and results-driven BS Information Technology student, ranked in the **top 1%** of my class.  
+My academic journey blends a strong technical foundation with leadership experience, having led multiple successful projects from concept to deployment.
 
-- 🥇 Top 1% in my university class  
-- 📚 Lifelong learner — I prefer learning by building  
-- 📖 Self-improvement enthusiast (read 7+ books so far)  
+With a passion for **Cybersecurity** and **Full Stack Development**, I combine creativity, problem-solving, and critical thinking to design solutions that are not only functional but secure.  
+My technical expertise spans HTML, CSS, JavaScript, Python, C++, PHP, MySQL, MongoDB, and frameworks like React, Node.js, and Express. I am proficient with version control tools like Git/GitHub and have hands-on experience in responsive web design, backend API development, and database management.
+
+I hold industry-recognized certifications, including:
+- **Google Cybersecurity Professional Certificate** (Coursera)  
+- **Google IT Automation with Python**  
+- **Advanced SEO** (Digiskills)  
+- **Foundations of Digital Marketing** (United Latino Student Association)  
+
+I believe in **learning by doing** — building real-world projects, experimenting with new technologies, and constantly challenging myself. Outside of coding, I’m an avid reader of self-improvement books, having completed over 7 titles focused on growth and productivity.
+
+**Short-term goal:** Develop my skills as a Cybersecurity Analyst while delivering impactful projects as a Full Stack Developer.  
+**Long-term goal:** Serve as a **Chief Information Security Officer (CISO)**, leading secure and innovative digital transformations.
 
 ---
 
@@ -41,9 +44,15 @@ Currently focused on **Cybersecurity** and **Full Stack Web Development**, I enj
 ## 📌 Featured Projects
 ### [Padast – E-Commerce Clothing Store](#)
 A fully dynamic e-commerce clothing store with local storage data handling, AI-generated imagery, and a clean UI.  
+- Built with **HTML, CSS, JavaScript, Jasmine**  
+- Features: Product listings, cart management, checkout simulation  
+- Designed for a smooth, interactive shopping experience  
 
 ### [Blennex Design Agency Website](#)
-A responsive full-stack client project with React, Node.js, MongoDB, and Express.
+A responsive full-stack client project with React, Node.js, MongoDB, and Express.  
+- Implemented secure backend functionality  
+- Designed and deployed for a real-world client on Hostinger  
+- Fully responsive, optimized for performance and usability  
 
 ---
 
@@ -53,13 +62,7 @@ A responsive full-stack client project with React, Node.js, MongoDB, and Express
 
 ---
 
-## 🎯 Goals
-- Short-term: Strengthen cybersecurity skills, work as a **Cybersecurity Analyst**  
-- Long-term: Become a **CISO** and lead secure digital transformations  
-
----
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/AdnankDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adnanktech/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/AdnankDev)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:YOUR@EMAIL.COM)  
