@@ -1,68 +1,54 @@
 # Hi, I'm Adnan Khan 👋
 
-🎓 **BS Information Technology Student** | Graduating 2027  
-🔐 **Aspiring Cybersecurity Analyst** | Future CISO  
-💻 **Full Stack Developer** | Google-Certified in Cybersecurity & Python Automation  
+I'm a passionate **BS Information Technology** student with strong **critical thinking**, **creative problem-solving**, and a deep interest in **technology, cybersecurity, and software development**.  
+My journey in IT has been shaped by building projects, learning diverse skills, and working on both **personal** and **client-based** solutions. I enjoy exploring how technology can solve real-world problems while continuously improving my expertise.
 
 ---
 
 ## 🚀 About Me
-I am Adnan Khan, a highly motivated and results-driven BS Information Technology student, ranked in the **top 1%** of my class.  
-My academic journey blends a strong technical foundation with leadership experience, having led multiple successful projects from concept to deployment.
-
-With a passion for **Cybersecurity** and **Full Stack Development**, I combine creativity, problem-solving, and critical thinking to design solutions that are not only functional but secure.  
-My technical expertise spans HTML, CSS, JavaScript, Python, C++, PHP, MySQL, MongoDB, and frameworks like React, Node.js, and Express. I am proficient with version control tools like Git/GitHub and have hands-on experience in responsive web design, backend API development, and database management.
-
-I hold industry-recognized certifications, including:
-- **Google Cybersecurity Professional Certificate** (Coursera)  
-- **Google IT Automation with Python**  
-- **Advanced SEO** (Digiskills)  
-- **Foundations of Digital Marketing** (United Latino Student Association)  
-
-I believe in **learning by doing** — building real-world projects, experimenting with new technologies, and constantly challenging myself. Outside of coding, I’m an avid reader of self-improvement books, having completed over 7 titles focused on growth and productivity.
-
-**Short-term goal:** Develop my skills as a Cybersecurity Analyst while delivering impactful projects as a Full Stack Developer.  
-**Long-term goal:** Serve as a **Chief Information Security Officer (CISO)**, leading secure and innovative digital transformations.
+- 🎓 Currently pursuing **BS Information Technology** at the University of Swat.
+- 💡 Skilled in **web development, cybersecurity, digital marketing, and creative problem-solving**.
+- 💼 Experienced in **client work** and **portfolio-worthy projects** such as:
+  - **Padast** – A feature-rich clothing brand project.
+  - **Blennex Design** – Client branding and design work.
+- 📈 Always learning, with a mix of technical expertise and a creative mindset.
+- 📍 Based in Pakistan.
+- 📬 **Email:** adnankprofesstinal@gmail.com
 
 ---
 
-## 🛠 Tech Stack
-**Languages:**  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus) ![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php) ![Assembly](https://img.shields.io/badge/Assembly-grey?style=flat)
+## 📜 Certifications
+- **Google Cybersecurity Professional Certificate** – [Verify Here](https://www.coursera.org/account/accomplishments/verify/AENBUL9Z8WKH)  
+- **HTML, CSS, and JavaScript for Web Developers** (Johns Hopkins University) – [Verify Here](https://www.coursera.org/account/accomplishments/verify/NHJ5R416NHNG)  
+- **Foundation of Digital Marketing** (United Latino Student Association) – [Verify Here](https://skillshop.exceedlms.com/student/award/iG1eoxs5xfUmshHbRtJy1Nyu)  
+- **Advance SEO** (Digiskills) – Visit [Digiskills Verification Page](https://digiskills.pk/verify/) and enter **Credential ID:** `8PZCXXHMK`  
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-grey?style=flat&logo=express) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap) ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat&logo=jasmine)  
+---
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)  
-
-**Other Skills:**  
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github) ![SEO](https://img.shields.io/badge/SEO-339933?style=flat) ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-blue?style=flat)  
+## 🛠 Skills & Tools
+- **Programming & Development:** HTML, CSS, JavaScript, Python  
+- **Cybersecurity:** Google Cybersecurity Professional skills  
+- **Digital Marketing:** SEO, Advanced SEO, Social Media Management  
+- **Creative Design:** Branding, Logo Design, Packaging Design, Adobe Suite  
+- **Other Skills:** Problem-solving, Project Management
 
 ---
 
 ## 📌 Featured Projects
-### [Padast – E-Commerce Clothing Store](#)
-A fully dynamic e-commerce clothing store with local storage data handling, AI-generated imagery, and a clean UI.  
-- Built with **HTML, CSS, JavaScript, Jasmine**  
-- Features: Product listings, cart management, checkout simulation  
-- Designed for a smooth, interactive shopping experience  
+- **[Padast Clothing Store](#)** – A modern, feature-rich clothing brand platform.  
+- **[Blennex Design](#)** – Professional client branding and design solutions.  
 
-### [Blennex Design Agency Website](#)
-A responsive full-stack client project with React, Node.js, MongoDB, and Express.  
-- Implemented secure backend functionality  
-- Designed and deployed for a real-world client on Hostinger  
-- Fully responsive, optimized for performance and usability  
+*(More projects coming soon as I upload them!)*
 
 ---
 
-## 📊 GitHub Stats
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdnankDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnankDev&layout=compact&theme=radical)  
+## 🌱 My Learning & Growth
+I believe in **lifelong learning** and documenting my journey along the way.  
+Here, you'll find my personal experiments, coursework projects, and contributions that showcase both my **technical** and **creative** growth.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adnanktech/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/AdnankDev)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:YOUR@EMAIL.COM)  
+**📫 Connect with Me**  
+- **LinkedIn:** [linkedin.com/in/adnanktech](https://www.linkedin.com/in/adnanktech/)  
+- **GitHub:** [github.com/AdnankDev](https://github.com/AdnankDev)  
+- **Email:** adnankprofesstinal@gmail.com  
