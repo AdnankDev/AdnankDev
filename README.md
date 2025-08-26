@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I am Adnan Khan, a highly motivated and results-driven BS Information Technology student, ranked in the **top 1%** of my class.  
 My academic journey blends a strong technical foundation with leadership experience, having led multiple successful projects from concept to deployment.
 
@@ -44,7 +44,7 @@ I believe in **learning by doing** — building real-world projects, experimenti
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 ### [Padast – E-Commerce Clothing Store](#)
 A fully dynamic e-commerce clothing store with local storage data handling, AI-generated imagery, and a clean UI.  
 - Built with **HTML, CSS, JavaScript, Jasmine**  
@@ -59,7 +59,7 @@ A responsive full-stack client project with React, Node.js, MongoDB, and Express
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdnankDev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnankDev&layout=compact&theme=radical)  
 
