@@ -67,7 +67,8 @@ A responsive full-stack client project with React, Node.js, MongoDB, and Express
 
 ## 📫 Connect with Me
 [![Website](https://shields.io)](https://adnanktechs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adnanktechs/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/adnanktechs)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:adnanktechs@gmail.com)  
+[![LinkedIn](https://shields.io)](https://linkedin.com)  
+[![GitHub](https://shields.io)](https://github.com)  
+[![Email](https://shields.io)](mailto:adnanktechs@gmail.com)  
+ 
 
