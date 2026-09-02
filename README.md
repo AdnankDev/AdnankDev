@@ -60,16 +60,14 @@ A responsive full-stack client project with React, Node.js, MongoDB, and Express
 ---
 
 ## GitHub Stats
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdnankDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnankDev&layout=compact&theme=radical)  
+![Adnan's GitHub stats](https://vercel.app)  
+![Top Languages](https://vercel.app)  
 
 ---
 
 ## 📫 Connect with Me
 
-[![Website](https://shields.io)](https://adnanktechs.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)  
-[![GitHub](https://shields.io)](https://github.com)  
-[![Email](https://shields.io)](mailto:adnanktechs@gmail.com)  
- 
-
+[![Website](https://shields.io)](https://www.adnanktechs.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![GitHub](https://shields.io)](https://github.com)
+[![Email](https://shields.io)](mailto:adnanktechs@gmail.com)
